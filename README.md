@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/0kco92gn8nfvpurj?svg=true)](https://ci.appveyor.com/project/QA-Netology/hw-2-4-bdd)
